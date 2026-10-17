@@ -10,6 +10,23 @@ name = "Mickel Nickel"
 desc = "Mickel Nickel (M2N), the CB&H Trading Co. token on the XRP Ledger. Match your pair. Spin for a nickel."
 icon = "https://cbt123bot.github.io/m2n_512.png"
 
+[[TOKENS]]
+issuer = "rJWC1VtyonPsTPJS1U8MZkszx6xypSYxwY"
+currency = "M2N"
+name = "Mickel Nickel"
+desc = "Mickel Nickel (M2N), the CB&H Trading Co. token on the XRP Ledger. Match your pair. Spin for a nickel."
+icon = "https://cbt123bot.github.io/m2n_512.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://m2n-trading-company.grok.me/"
+type = "website"
+title = "CB&H Trading Co."
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/CBT123BOT"
+type = "socialmedia"
+title = "X / Twitter"
+
 [[PRINCIPALS]]
 name = "CB&H Trading Co."
 x = "CBT123BOT"
